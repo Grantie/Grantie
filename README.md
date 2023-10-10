@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Grantie
 - 👀 I’m interested in javascript and node.js.
 - 🌱 I’m currently learning node.js and python.
-- 📫 How to reach me admin@tikogrant.com
+- 📫 How to reach me grant.garbe@icloud.com
