@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Grantie
-- 👀 I’m interested in javascript and node.js.
-- 🌱 I’m currently learning node.js and python.
-- 📫 How to reach me grant.garbe@icloud.com
+- 💖 My passion is programming and developing websites and apps.
+- 🧠 I’m currently learning node.js and python.
+- 📫 You can contact me by emailing grant.garbe@icloud.com!
